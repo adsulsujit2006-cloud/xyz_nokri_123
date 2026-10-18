@@ -1,0 +1,5 @@
+spring.application.name=Nokrivala
+server.port=1000
+eureka.client.register-with-eureka=false
+
+eureka.client.fetch-registry=false

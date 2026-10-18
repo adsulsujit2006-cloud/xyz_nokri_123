@@ -1,0 +1,13 @@
+package com.nokrivala.eurkhaserver;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class NokrivalaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(NokrivalaApplication.class, args);
+	}
+
+}
